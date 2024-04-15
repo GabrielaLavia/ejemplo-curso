@@ -28,7 +28,8 @@ namespace Ejemplo1W
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
-           // MessageBox.Show("Gracias por usar la aplicación...");
+           MessageBox.Show("Gracias por usar la aplicación...");
+             // descomenté este mensaje
         }
     }
 }

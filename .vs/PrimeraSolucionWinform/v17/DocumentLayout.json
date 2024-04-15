@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\GABRIELA\\Desktop\\REPO-GITHUB\\ejemplo-curso\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92067FF3-E36F-4FDF-8D31-CC1D5C3CA559}|Ejemplo1W\\Ejemplo1W.csproj|c:\\users\\gabriela\\desktop\\repo-github\\ejemplo-curso\\ejemplo1w\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92067FF3-E36F-4FDF-8D31-CC1D5C3CA559}|Ejemplo1W\\Ejemplo1W.csproj|solutionrelative:ejemplo1w\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92067FF3-E36F-4FDF-8D31-CC1D5C3CA559}|Ejemplo1W\\Ejemplo1W.csproj|c:\\users\\gabriela\\desktop\\repo-github\\ejemplo-curso\\ejemplo1w\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92067FF3-E36F-4FDF-8D31-CC1D5C3CA559}|Ejemplo1W\\Ejemplo1W.csproj|solutionrelative:ejemplo1w\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\GABRIELA\\Desktop\\REPO-GITHUB\\ejemplo-curso\\Ejemplo1W\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejemplo1W\\Form1.cs",
+              "ToolTip": "C:\\Users\\GABRIELA\\Desktop\\REPO-GITHUB\\ejemplo-curso\\Ejemplo1W\\Form1.cs",
+              "RelativeToolTip": "Ejemplo1W\\Form1.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:14:46.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\GABRIELA\\Desktop\\REPO-GITHUB\\ejemplo-curso\\Ejemplo1W\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejemplo1W\\Form1.cs",
+              "ToolTip": "C:\\Users\\GABRIELA\\Desktop\\REPO-GITHUB\\ejemplo-curso\\Ejemplo1W\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejemplo1W\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:13:52.776Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
